@@ -1,6 +1,16 @@
-h1 {
-  color: #FF7F50;
+.container h1 {
+  font-size: 25px;
+  color: #E45456;
 }
-h3 {
-  color: #800080;
+.container p {
+  font-size: 25px;
+  color: #3C7949;
+}
+.container .myclass h1 {
+  font-size: 25px;
+  color: #3C7949;
+}
+.container .myclass p {
+  font-size: 25px;
+  color: #E45456;
 }
